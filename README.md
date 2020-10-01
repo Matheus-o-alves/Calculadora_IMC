@@ -8,7 +8,6 @@ Neste projeto temos uma calculadora de indice de massa corporal em que a partir 
 
 </p>
 <p float="left">
-  <img src="![imcc](https://user-images.githubusercontent.com/65368831/94770879-28d0a800-038c-11eb-9c8d-4a7d24cd6d73.png)" width="100" />
-  <img src="![bloggif_5f75633539ae9](https://user-images.githubusercontent.com/65368831/94770862-17879b80-038c-11eb-9aa3-377a97e1ebf7.gif)
-" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/65368831/94770879-28d0a800-038c-11eb-9c8d-4a7d24cd6d73.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/65368831/94770862-17879b80-038c-11eb-9aa3-377a97e1ebf7.gif" width="100" /> 
 </p>
